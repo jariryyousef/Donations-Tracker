@@ -1,0 +1,75 @@
+body{
+
+
+    background-image: url(img/school.jpg);
+    background-size: cover;
+    margin: 0%;
+    width: 100%;
+    font-family: 'Noto Sans JP', sans-serif;
+    color: #f5f5f5;
+}
+
+#formDiv{
+
+    float: left;
+    padding-left: 5%;
+    padding-top: 5%;
+    
+}
+
+#tableDiv{
+    float: right;
+    margin-right: 5%;
+    margin-top: 5%;
+    padding-right: 5%;
+    padding-top: 5%;
+    width: 40%;
+    background-color: rgba(114, 104, 211, 0.8);
+}
+
+h1{
+background-color:#1F1F1F ;
+margin: 0%;
+text-align: center;
+
+color: #f5f5f5;
+font-size:50px;
+}
+
+input{
+
+    border-radius: 5px;
+}
+
+form{
+
+    text-align: center;
+    background-color:  rgba(114, 104, 211, 0.8);
+}
+
+.tableClass{
+width: 100%;
+padding: 0%;
+border: 3px solid white;
+}
+
+.headRowClass{
+
+    background-color: #1F1F1F;
+}
+
+.dataRowClass{
+
+
+    background-color:#3D3D3D;
+
+}
+
+input ,option,select, button{
+    width: 70%;
+}
+
+.clearBtnClass{
+
+    text-align: center;
+}
